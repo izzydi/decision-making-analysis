@@ -1,5 +1,7 @@
 # Decision-Making Analysis
 
+> **Historical/report portfolio artifact:** this repository preserves the completed written report; no executable source code or dataset is included.
+
 An academic decision-analysis project preserved as a complete written report.
 
 ## Repository contents
